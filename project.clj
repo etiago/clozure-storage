@@ -1,4 +1,4 @@
-(defproject clozure-storage "0.1.0-SNAPSHOT"
+(defproject org.tiago/clozure-storage "0.1.0-SNAPSHOT"
   :description "Clojure wrapper around the azure-storage-java (Microsoft Azure Storage SDK for Java) library."
   :url "https://github.com/etiago/clozure-storage"
   :license {:name "MIT License"
